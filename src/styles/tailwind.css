@@ -3,21 +3,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* rgb(161 65 65) 0%, 
-    rgb(115 29 31) 50%, 
-    rgb(149 28 31) 100% ); */
-/* 
-    <MainButton className="flex justify-center items-center flex-row  transition duration-200 ease-in-out outline-none focus:outline-none text-white py-1 px-1 w-32 rounded-lg mt-2 shadow-lg bg-gradient-to-r from-polemosColor to-red-700  hover:from-white border border-transparent hover:to-white hover:border-polemosColor hover:text-polemosColor md:text-md">
-          <h1 className="text-md font-bold">Enlist</h1>
-          <div className="hidden spearContianer relative">
-            <SpearRight
-              className="absolute w-6 h-6"
-              src="./assets/images/spearRed.png"
-            />
-            <SpearLeft
-              className=" w-6 h-6"
-              src="./assets/images/spearRed.png"
-            />
-          </div>
-        </MainButton> */
